@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quotes_App</string>
+    <string name="quote1">It’s gonna always get better if you never give up</string>
+    <string name="quote2">What does not kill you, only makes you stronger.</string>
+    <string name="quote3">If you arent willing to look foolish as a beginner , youll never become a graceful master, embarrassment is the cost of entry </string>
+    <string name="quote4">You will be as happy as you make up your mind to be.. </string>
+    <string name="quote5">Believe in progress not in perfection </string>
+    <string name="quote6">A ship in a harbour is safe but thats not what a ship is built for. </string>
+    <string name="quote7">You might be the sweetest of apples , but some people just dont like apples </string>
+    <string name="quote8">The axe might forget but the tree never does.</string>
+    <string name="quote9">Sometimes winning is not about reaching a goal, its about being the last one standing  </string>
+    <string name="quote10">You cannot choose what happens, but you can choose how you respond  </string>
+</resources>
